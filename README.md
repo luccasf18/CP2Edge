@@ -26,6 +26,7 @@ Projeto de sistema embarcado que monitora a umidade, **temperatura e claridade d
 
 ## 📋Links
 Worki: [https://wokwi.com/projects/431085101032372225](https://wokwi.com/projects/431085101032372225)
+
 Video: [https://files.catbox.moe/j31trx.mp4]
 
 ## 👤integrantes do grupo:
