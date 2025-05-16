@@ -23,3 +23,6 @@ Projeto de sistema embarcado que monitora a umidade, **temperatura e claridade d
 - Buzzer
 - Tela LCD 16x2 (com o módulo I2C)
 - Jumpers, resistores e uma protoboard
+
+## 📋Links
+Worki: [https://wokwi.com/projects/431085101032372225](https://wokwi.com/projects/431085101032372225)
