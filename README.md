@@ -32,5 +32,7 @@ Worki: [https://wokwi.com/projects/431085101032372225](https://wokwi.com/project
 -Nome: Anna Clara Ruggeri da Silva - RM: 565553
 
 -Nome:Enzo Carvalho Brincalepe Campo - RM: 562296
+
 -Nome: João Vitor Piccolo - RM: 565127
+
 -Nome:Luccas figueira gonçalves Costa - RM: 564240
